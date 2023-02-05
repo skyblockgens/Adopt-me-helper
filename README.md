@@ -7,3 +7,4 @@
 1. In Chrome/Edge go to the extensions page (`chrome://extensions` or `edge://extensions`).
 1. Enable Developer Mode.
 1. Drag the `Adopt me helper` folder anywhere on the page to import it (do not delete the folder afterwards).
+1. Launch Adopt me and chrome should open a seperate window with information.
